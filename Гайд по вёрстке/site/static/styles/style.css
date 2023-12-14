@@ -1,0 +1,12 @@
+.italic {
+    font-style: italic;
+}
+
+.bold_titel_text {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+ol {
+    list
+}
